@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/971
     wikipedia: http://en.wikipedia.org/wiki/Jacob_Grimm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28044#Kopciuszek--13-Ba---fantastyczna
 gutenberg_issued: '2009-02-10'
 gutenberg_type: Text
 identifiers:
