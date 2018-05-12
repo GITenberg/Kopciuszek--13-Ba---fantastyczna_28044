@@ -1,0 +1,43 @@
+_repo: Kopciuszek--13-Ba---fantastyczna_28044
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Londyński, Bolesław
+    alias: Londynski, Boleslaw
+    birthdate: 1855
+    deathdate: 1928
+    gutenberg_agent_id: '33098'
+    url: http://www.gutenberg.org/2009/agents/33098
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Grimm, Wilhelm
+    alias: Grimm, Wilhelm Carl
+    birthdate: 1786
+    deathdate: 1859
+    gutenberg_agent_id: '972'
+    url: http://www.gutenberg.org/2009/agents/972
+    wikipedia: http://en.wikipedia.org/wiki/Wilhelm_Grimm
+  - agent_name: Grimm, Jacob
+    alias: Grimm, Jacob Ludwig Carl
+    birthdate: 1785
+    deathdate: 1863
+    gutenberg_agent_id: '971'
+    url: http://www.gutenberg.org/2009/agents/971
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Grimm
+description: ''
+gutenberg_issued: '2009-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28044'
+language: pl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+title: "Kopciuszek\r\nBaśń fantastyczna"
+url: http://www.gutenberg.org/ebooks/28044
